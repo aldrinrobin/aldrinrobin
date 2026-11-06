@@ -1,3 +1,59 @@
+
+<div align="center">
+
+  <h1>👾 Aldrin K Robin</h1>
+
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hello%2C+World!+I'm+Aldrin.;Developer+%7C+Filmmaker+%7C+Creative+Thinker;Turning+ideas+into+reality...;Always+building.+Always+learning." />
+  </p>
+
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+```bash
+┌──(aldrin㉿github)-[~]
+└─$ whoami
+
+Aldrin K Robin
+
+┌──(aldrin㉿github)-[~]
+└─$ cat about.txt
+
+CS Student & Developer
+Exploring AI and Full-Stack Development.
+Building things that solve real problems.
+Creating stories beyond the screen.
+
+┌──(aldrin㉿github)-[~]
+└─$ ls interests/
+
+Artificial Intelligence
+Software Engineering
+Filmmaking & Photography
+Music & Creative Technology
+
+┌──(aldrin㉿github)-[~]
+└─$ _
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+  **`[ TECH STACK ]`**
+
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react,firebase,mysql,git,github,vscode&perline=7" />
+
+</div>
+
+<hr/>
+
+
 # 💫 About Me:
 - 🔭 **Currently exploring:** AI, full-stack development, and building ideas into real-world products.<br>- 🚀 **Building:** Projects that combine technology, creativity, and problem-solving.<br>- 🤝 **Open to:** Hackathons, collaborations, open-source projects, and meeting fellow builders.<br>- 💡 **Interests:** Artificial Intelligence, software engineering, filmmaking, photography, and music.<br>- 🎹 **Beyond the keyboard:** A keyboardist, video editor, filmmaker, and someone who loves experimenting with new ideas.<br>- ⚡ **Fun fact:** My creativity doesn't stop at code — sometimes my best projects begin with an idea that sounds impossible.
 
