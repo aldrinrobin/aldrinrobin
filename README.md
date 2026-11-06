@@ -3,51 +3,39 @@
 
   <h1>👾 Aldrin K Robin</h1>
 
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hello%2C+World!+I'm+Aldrin.;Developer+%7C+Filmmaker+%7C+Creative+Thinker;Turning+ideas+into+reality...;Always+building.+Always+learning." />
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hello%2C+World!+I'm+Aldrin.;Developer+%7C+Filmmaker+%7C+Creative+Thinker;Turning+ideas+into+reality...;Always+building.+Always+learning." />
 
 </div>
 
-<table align="center">
-<tr>
-<td>
+<br/>
 
-```bash
+<div align="center">
+
+<pre>
 ┌──(aldrin㉿github)-[~]
 └─$ whoami
 
-Aldrin K Robin
+   Aldrin K Robin
 
 ┌──(aldrin㉿github)-[~]
 └─$ cat about.txt
 
-CS Student & Developer
-Exploring AI and Full-Stack Development.
-Building things that solve real problems.
-Creating stories beyond the screen.
+   CS Student & Developer
+   Exploring AI and Full-Stack Development.
+   Building things that solve real problems.
+   Creating stories beyond the screen.
 
 ┌──(aldrin㉿github)-[~]
 └─$ ls interests/
 
-Artificial Intelligence
-Software Engineering
-Filmmaking & Photography
-Music & Creative Technology
+   Artificial Intelligence
+   Software Engineering
+   Filmmaking & Photography
+   Music & Creative Technology
 
 ┌──(aldrin㉿github)-[~]
 └─$ _
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-  **`[ TECH STACK ]`**
-
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react,firebase,mysql,git,github,vscode&perline=7" />
+</pre>
 
 </div>
 
