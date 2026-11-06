@@ -1,17 +1,30 @@
 
 <div align="center">
 
-  <h1>👾 Aldrin K Robin</h1>
+<h1>👾 Aldrin K Robin</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hello%2C+World!+I'm+Aldrin.;Developer+%7C+Filmmaker+%7C+Creative+Thinker;Turning+ideas+into+reality...;Always+building.+Always+learning." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hello%2C+World!+I'm+Aldrin.;Developer+%7C+Filmmaker+%7C+Creative+Thinker;Turning+ideas+into+reality...;Always+building.+Always+learning."/>
 
 </div>
 
 <br/>
 
+<table align="center">
+<tr>
+<td>
+
 <div align="center">
 
-<pre>
+🔴 🟡 🟢 &nbsp; **aldrin@github: ~**
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td>
+
+```bash
 ┌──(aldrin㉿github)-[~]
 └─$ whoami
 
@@ -35,11 +48,14 @@
 
 ┌──(aldrin㉿github)-[~]
 └─$ _
-</pre>
+```
 
-</div>
+</td>
+</tr>
+</table>
 
 <hr/>
+
 
 
 # 💫 About Me:
