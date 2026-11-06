@@ -9,50 +9,13 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td>
 
 <div align="center">
-
-🔴 🟡 🟢 &nbsp; **aldrin@github: ~**
-
+  <img src="./terminal.png" width="95%" alt="Aldrin's Terminal"/>
 </div>
 
-</td>
-</tr>
-<tr>
-<td>
+<br/>
 
-```bash
-┌──(aldrin㉿github)-[~]
-└─$ whoami
-
-   Aldrin K Robin
-
-┌──(aldrin㉿github)-[~]
-└─$ cat about.txt
-
-   CS Student & Developer
-   Exploring AI and Full-Stack Development.
-   Building things that solve real problems.
-   Creating stories beyond the screen.
-
-┌──(aldrin㉿github)-[~]
-└─$ ls interests/
-
-   Artificial Intelligence
-   Software Engineering
-   Filmmaking & Photography
-   Music & Creative Technology
-
-┌──(aldrin㉿github)-[~]
-└─$ _
-```
-
-</td>
-</tr>
-</table>
 
 <hr/>
 
