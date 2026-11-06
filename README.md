@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <h1>👾 Aldrin K Robin</h1>
+  <h1>Aldrin K Robin</h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hello%2C+World!+I'm+Aldrin.;Developer+%7C+Filmmaker+%7C+Creative+Thinker;Turning+ideas+into+reality...;Always+building.+Always+learning." />
 
@@ -71,11 +71,15 @@
 
   <br/><br/>
 
+  <!--
+  
   <h2>🏆 GitHub Trophies</h2>
 
   <img src="https://github-profile-trophy.vercel.app/?username=aldrinrobin&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 
-  <br/><br/>
+  <br/><br/> 
+
+  -->
 
   <h2>✍️ Random Dev Quote</h2>
 
@@ -83,11 +87,15 @@
 
   <br/><br/>
 
+  <!--
+
   <h2>🔝 Top Contributed Repo</h2>
 
   <img src="https://github-contributor-stats.vercel.app/api?username=aldrinrobin&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
   <br/><br/>
+
+  -->
 
   <img src="https://github.com/aldrinrobin/aldrinrobin/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation"/>
 
